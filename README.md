@@ -1,3 +1,13 @@
+# IntelliJ IDEA를 이용하여 Spring MVC 프로젝트를 만드는 영상에서 제공하는 코드.
+
+## https://www.youtube.com/watch?v=Ah_VFifWxqc
+
+## 문제점
+원본 프로젝트는 정상적으로 실행.
+영상을 따라가면서 만든 코드는 오류 발생.
+그 원인을 파악하지 못함.
+
+
 # Spring MVC Demo
 Welcome to the Spring MVC Demo repository! 🎉 This project demonstrates how to set up and configure a Spring MVC application from scratch, covering essential topics like:
 - Spring MVC Setup (DispatcherServlet & ViewResolver)
